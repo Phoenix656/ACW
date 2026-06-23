@@ -1,0 +1,5 @@
+Let's generate An Alert system that alert the user to update or do what is needed to be done like if PUC is expiring of car then remind the user to renew it or 
+if RC is getting expired so it starts to send a notification about first 2 months before 1 months before the expiration 15 days 10 days 5 days 2 days 1 day and
+on the day of expiration if the rc is not updated and to show that rc is updated the new RC should be uploaded.
+
+The same thing to be done for every expirable and need to be renewed things.
